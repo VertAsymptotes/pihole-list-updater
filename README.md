@@ -24,4 +24,4 @@ At this point, you can either run the script manually (but if you want to do tha
 3. Save and exit.
 
 # Disclaimer
-You completely and without question in saecula saeculorum assume responsibility for whatever happens when running this script does to your system - just because it works on mine, there is no guarantee that your system won't immediately catch fire / open a portal to the other side of the Upside Down. Just don't blame me if that happens :)
+You completely and without question in saecula saeculorum assume responsibility for whatever happens when running this script on your system - just because it works on mine, there is no guarantee that your system won't immediately catch fire / open a portal to the other side of the Upside Down. Just don't blame me if that happens :)
